@@ -47,7 +47,7 @@ I'm a versatile developer with a strong product-oriented mindset, focused on **a
 
 If you appreciate my projects and want to support me:
 
-☕ [Ko-fi](https://ko-fi.com/nikmedoed) | 💎 [Boosty](https://boosty.to/nikmedoed/donate) | 💰 [PayPal](https://paypal.me/etonikmedoed) | 💳 [YooMoney](https://yoomoney.ru/to/4100119049495394)
+☕ [Ko-fi](https://ko-fi.com/nikmedoed) | 💎 [Boosty](https://boosty.to/nikmedoed/donate) | 💰 [PayPal](https://paypal.me/etonikmedoed) | 💳 [YooMoney](https://yoomoney.ru/to/4100119049495394)  | 🍺 [Buy Me a Coffee](https://buymeacoffee.com/nikmedoed)
 
 - **BTC:** `1E2tqVoi16owvCsasuK3M3fzuuSyawxRe7`
 - **USDT (TRC20):** `TPpseUYL2hQJqY2z17HyK7EYZRoPCYbeUE`
