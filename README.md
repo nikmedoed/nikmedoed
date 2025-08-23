@@ -7,8 +7,10 @@ _Building clean, scalable tools with Python, TypeScript & cross-platform tech._
 I'm a versatile developer with a strong product-oriented mindset, focused on **automation** and **digitalization of processes**, and building **management systems** through web apps, mobile apps, Telegram bots, browser extensions, and Windows tools.
 
 🌍 **Open to:** Remote / European opportunities as a Python / JavaScript Developer.
+ 
+📂 **My projects & software:** [nikmedoed.com](https://nikmedoed.com/)
 
-📧 [Email](mailto:nikmedoed@gmail.com) | 💬 [Telegram](https://t.me/nikmedoed) | 🔗 [LinkedIn](https://www.linkedin.com/in/muromcevn) | 🌐 [Personal Page](https://nikmedoed.github.io) | 📝 [Blog (RU)](https://t.me/etonikmedoed)
+📧 [Email](mailto:nikmedoed@gmail.com) | 💬 [Telegram](https://t.me/nikmedoed) | 🔗 [LinkedIn](https://www.linkedin.com/in/muromcevn) | 📝 [TG Blog (RU)](https://t.me/etonikmedoed)
 
 ---
 
