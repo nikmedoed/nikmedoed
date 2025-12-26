@@ -36,6 +36,8 @@ I'm a versatile developer with a strong product-oriented mindset, focused on **a
 - 📹 [**Easy Video Compress**](https://github.com/nikmedoed/easy-video-compress): Free, shell-integrated video compressor-optimizer for social media, messengers, Notion, and more.
 - 💾 [**Windows Backup Tool**](https://github.com/nikmedoed/windows_backup_tool): GUI-driven incremental backup utility for Windows folders, featuring scheduling and exclusions.
 - ✉️ [**Telegram Important Notifies**](https://github.com/nikmedoed/Telegram-important-notifies): Monitors selected chats and forwards important Telegram messages based on queries.
+- 📺 [**YT Auto Playlist**](https://github.com/nikmedoed/YTautoPlaylist): Browser extension for YouTube that provides advanced playlist management and automatic collection of new subscription videos with flexible filtering.
+- 🧩 [**TRIZ Quiz**](https://github.com/nikmedoed/triz_quiz): Telegram-first quiz system with bot registration, voting, and a public WebSocket screen for TRIZ sessions.
 - ⏱️ [**Meetings Timer**](https://github.com/nikmedoed/meetings-timer): Non-linear stage timer to keep multi-part online meetings on track, with flexible stage control.
 - 🎙️ [**Real-time Speech to Input**](https://github.com/nikmedoed/speech_to_input): Whisper-powered real-time dictation into any text input.
 - 🧠 [**Vocabulary Coach Bot**](https://github.com/nikmedoed/vocabulary_coach_bot): Telegram bot using Google Sheets as a database to train answers via multiple choice or intelligent text matching input.
