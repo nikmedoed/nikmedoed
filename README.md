@@ -35,6 +35,7 @@ I'm a versatile developer with a strong product-oriented mindset, focused on **a
 - 🖥️ [**OLED Screensaver**](https://github.com/nikmedoed/oled_screensaver): Blacks OLED displays via hotkeys or idle detection without affecting other screens.
 - 📹 [**Easy Video Compress**](https://github.com/nikmedoed/easy-video-compress): Free, shell-integrated video compressor-optimizer for social media, messengers, Notion, and more.
 - 💾 [**Windows Backup Tool**](https://github.com/nikmedoed/windows_backup_tool): GUI-driven incremental backup utility for Windows folders, featuring scheduling and exclusions.
+- 🌐 [**Notion Headless**](https://github.com/nikmedoed/notion_healdess): Turns Notion databases into a lightning-fast static website and keeps it up to date.
 - ✉️ [**Telegram Important Notifies**](https://github.com/nikmedoed/Telegram-important-notifies): Monitors selected chats and forwards important Telegram messages based on queries.
 - 📺 [**YT Auto Playlist**](https://github.com/nikmedoed/YTautoPlaylist): Browser extension for YouTube that provides advanced playlist management and automatic collection of new subscription videos with flexible filtering.
 - 🧩 [**TRIZ Quiz**](https://github.com/nikmedoed/triz_quiz): Telegram-first quiz system with bot registration, voting, and a public WebSocket screen for TRIZ sessions.
