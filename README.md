@@ -33,7 +33,7 @@ I'm a versatile developer with a strong product-oriented mindset, focused on **a
 
 - 📺 [**Pishow**](https://github.com/nikmedoed/pishow): Lightweight slideshow for older devices (smart TVs, tablets) using pure HTML & meta refresh.
 - 🏠 [**Homer or Not**](https://github.com/nikmedoed/homer_or_not): Local-first new tab page with Homer, configurable search, quick links and news feeds.
-- 🛒 [**OWB Tools**](https://github.com/nikmedoed/owb-extension): Extension for Ozon/WB/AliExpress with product cards export, price tracking, and optionally syncs data through a local server.
+- 🛒 [**OWB Tools**](https://github.com/nikmedoed/owb-extension): Extension for Ozon/WB/AliExpress with product cards export, price tracking, and syncs data through a server.
 - 🖥️ [**OLED Screensaver**](https://github.com/nikmedoed/oled_screensaver): Blacks OLED displays via hotkeys or idle detection without affecting other screens.
 - 📹 [**Easy Video Compress**](https://github.com/nikmedoed/easy-video-compress): Free, shell-integrated video compressor-optimizer for social media, messengers, Notion, and more.
 - 💾 [**Windows Backup Tool**](https://github.com/nikmedoed/windows_backup_tool): GUI-driven incremental backup utility for Windows folders, featuring scheduling and exclusions.
