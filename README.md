@@ -32,6 +32,8 @@ I'm a versatile developer with a strong product-oriented mindset, focused on **a
 ### 🚀 Projects You Might Find Interesting
 
 - 📺 [**Pishow**](https://github.com/nikmedoed/pishow): Lightweight slideshow for older devices (smart TVs, tablets) using pure HTML & meta refresh.
+- 🏠 [**Homer or Not**](https://github.com/nikmedoed/homer_or_not): Local-first Chrome/Chromium new tab page with configurable search, quick links, visited-site columns, and cached Homer service tiles.
+- 🛒 [**OWB Tools**](https://github.com/nikmedoed/owb-extension): Chrome extension for Ozon/WB/AliExpress that exports product cards and reviews, tracks local price history, and optionally syncs data through a local server.
 - 🖥️ [**OLED Screensaver**](https://github.com/nikmedoed/oled_screensaver): Blacks OLED displays via hotkeys or idle detection without affecting other screens.
 - 📹 [**Easy Video Compress**](https://github.com/nikmedoed/easy-video-compress): Free, shell-integrated video compressor-optimizer for social media, messengers, Notion, and more.
 - 💾 [**Windows Backup Tool**](https://github.com/nikmedoed/windows_backup_tool): GUI-driven incremental backup utility for Windows folders, featuring scheduling and exclusions.
