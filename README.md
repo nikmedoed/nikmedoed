@@ -35,7 +35,7 @@ I'm a versatile developer with a strong product-oriented mindset, focused on **a
 - 🏠 [**Homer or Not**](https://github.com/nikmedoed/homer_or_not): Local-first new tab page with Homer, configurable search, quick links and news feeds.
 - 🛒 [**OWB Tools**](https://github.com/nikmedoed/owb-extension): Extension for Ozon/WB/AliExpress with product cards export, price tracking, and syncs data through a server.
 - 🖥️ [**OLED Screensaver**](https://github.com/nikmedoed/oled_screensaver): Blacks OLED displays via hotkeys or idle detection without affecting other screens.
-- 📹 [**Easy Video Compress**](https://github.com/nikmedoed/easy-video-compress): Free, shell-integrated video compressor-optimizer for social media, messengers, Notion, and more.
+- 📹 [**Easy Media Compress**](https://github.com/nikmedoed/easy-media-compress): Free, GUI and shell-integrated video and photo compressor-optimizer for social media, messengers, Notion, and more.
 - 💾 [**Windows Backup Tool**](https://github.com/nikmedoed/windows_backup_tool): GUI-driven incremental backup utility for Windows folders, featuring scheduling and exclusions.
 - 🌐 [**Notion Headless**](https://github.com/nikmedoed/notion_healdess): Turns Notion databases into a lightning-fast static website and keeps it up to date.
 - ✉️ [**Telegram Important Notifies**](https://github.com/nikmedoed/Telegram-important-notifies): Monitors selected chats and forwards important Telegram messages based on queries.
